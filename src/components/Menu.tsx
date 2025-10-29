@@ -22,7 +22,7 @@ const menuItems: MenuItem[] = [
     title: 'Cold Brew',
     description: 'Smooth, bold coffee steeped for 24 hours and served over ice.',
     price: '$5.00',
-    image: 'https://images.pexels.com/photos/1251175/pexels-photo-1251175.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://images.pexels.com/photos/7488707/pexels-photo-7488707.jpeg',
   },
 ];
 
